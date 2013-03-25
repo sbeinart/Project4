@@ -16,7 +16,7 @@
 			mapOptions: {
 				zoom: 18,
 				center: new google.maps.LatLng(39.884534, -86.039636), 
-				mapTypeId: google.maps.MapTypeId.ROADMAP, 
+				mapTypeId: google.maps.MapTypeId.HYBRID, 
 				scrollwheel: false
 			},
 			markers: [],
