@@ -14,8 +14,8 @@
 			geocoder: new google.maps.Geocoder(),
 			map: false,
 			mapOptions: {
-				zoom: 18,
-				center: new google.maps.LatLng(39.884534, -86.039636), 
+				zoom: 20,
+				center: new google.maps.LatLng(39.884534, -86.03968), 
 				mapTypeId: google.maps.MapTypeId.HYBRID, 
 				scrollwheel: false
 			},

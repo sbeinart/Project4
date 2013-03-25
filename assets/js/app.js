@@ -133,7 +133,7 @@
 
 	var map = $('#map').MobileMap({
 		mapOptions: {
-			center: new google.maps.LatLng(40, -86)
+			center: new google.maps.LatLng(39.884534, -86.03968)
 		},
 		callback: {
 			newMarker: function(marker, lat, lng, index) {
